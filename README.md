@@ -7,7 +7,7 @@ This is a Django REST API that uses Google OAuth 2.0 to fetch the users Google C
 First of all clone the Project to your local machine.
 
 ```
-gh repo clone mohammedazam55/Django-0Auth-2.0-Google-Calendar-Events-REST-APIs
+git clone [mohammedazam55/Django-0Auth-2.0-Google-Calendar-Events-REST-APIs](https://github.com/mohammedazam55/Django-0Auth-2.0-Google-Calendar-Events-REST-APIs.git)
 ```
 
 To run this project you need to [install](https://www.python.org/downloads/) Python >= 3.6.0 on your local machine.
